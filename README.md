@@ -1,3 +1,4 @@
+![logo](https://github.com/Tembelihl/Tembelihl/blob/main/Tech.jpg)
 <h1 align="center">Hi 👋, I'm Tembelihle Biyana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
